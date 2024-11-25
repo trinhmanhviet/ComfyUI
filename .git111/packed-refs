@@ -1,0 +1,34 @@
+# pack-refs with: peeled fully-peeled sorted 
+95972bab86e5e1b64cc9b2956299ec57845e9d19 refs/remotes/origin/improved_memory
+839ed3368efd0f61a2b986f57fe9e0698fd08e9f refs/remotes/origin/master
+76e54065f19b09825c9b92cf6349fedd17b0f4e0 refs/remotes/origin/node_typing
+16735c98e0d039ee34b257171abd6b08408afe0f refs/remotes/origin/patch_hooks
+815c6f36e173a6e72d09917af70421126e066c0b refs/remotes/origin/patch_hooks_improved_memory
+0076783b35f8f653f15f7d259b0550c6f352521f refs/remotes/origin/remove_download
+2ec6d1c6e364ab92e3d8149a83873ac47c797248 refs/tags/latest
+4ca9b9cc29fefaa899cba67d61a8252ae9f16c0d refs/tags/v0.0.1
+bb775157355f7bfd93f3a89deeb5904153365ba1 refs/tags/v0.0.2
+^7914c47d5afb1c5ffab49d665f9a1ac86a458821
+1d47ec38d80bad2d57391105f3d34919728e66ad refs/tags/v0.0.3
+b334605a6631c12bbe7b3aff6d77526f47acdf42 refs/tags/v0.0.4
+1b5b8ca81a5bc141ed40a94919fa5b6c81d8babb refs/tags/v0.0.5
+75b9b55b221fc95f7137a91e2349e45693e342b8 refs/tags/v0.0.6
+b8ffb2937f9daeaead6e9225f8f5d1dde6afc577 refs/tags/v0.0.7
+39fb74c5bd13a1dccf4d7293a2f7a755d9f43cbd refs/tags/v0.0.8
+904bf58e7d27eb254d20879e306042653debc4b3 refs/tags/v0.1.0
+bb4416dd5b2d7c2f34dc17e18761dd6b3d8b6ead refs/tags/v0.1.1
+7df42b9a2364bae6822fbd9e9fa10cea2e319ba3 refs/tags/v0.1.2
+c6812947e98eb384250575d94108d9eb747765d9 refs/tags/v0.1.3
+f1c2301697cb1cd538f8d4190741935548bb6734 refs/tags/v0.2.0
+483004dd1d379837a06e1244e8e833ab1369dd50 refs/tags/v0.2.1
+0c7c98a965bff25f9398a4b28dfc274bedad9f6c refs/tags/v0.2.2
+5f9d5a244b0c753e8d1dd0975ad3982ffcb16e0f refs/tags/v0.2.3
+8ce2a1052ca03183768da0aaa483024e58b8008c refs/tags/v0.2.4
+30c0c81351a14e6820c98ee22c24f3edc9062e55 refs/tags/v0.2.5
+65a865918277b9413571c00fa402c5ff0a224225 refs/tags/v0.2.6
+696672905fd17af2654ced11e3ab590d6a555996 refs/tags/v0.2.7
+22535d05896cf78d84924c492c8cfc17b8786c05 refs/tags/v0.3.0
+8f0009aad0591ceee59a147738aa227187b07898 refs/tags/v0.3.1
+94323a26a7ad97aae3eb5aea9d452332dc3b7deb refs/tags/v0.3.2
+bc6be6c11e48114889a368e8c3597df8aac64ae3 refs/tags/v0.3.3
+6e8cdcd3cb542ba9eb5a5e5a420eff06f59dd268 refs/tags/v0.3.4
