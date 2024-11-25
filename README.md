@@ -1,6 +1,6 @@
 <div align="center">
 
-##### FIRST NOTICE #####
+# FIRST NOTICE #
 Check file extra_model_paths.yaml for models paths
 
 =======
