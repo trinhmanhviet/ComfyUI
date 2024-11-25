@@ -1,5 +1,9 @@
 <div align="center">
 
+=======
+# ComfyUI
+ComfyUI based on original ComfyUI, with custom node recommened by PhamHung. Init on 26/11/2024
+
 # ComfyUI
 **The most powerful and modular diffusion model GUI and backend.**
 
@@ -298,4 +302,3 @@ This will use a snapshot of the legacy frontend preserved in the [ComfyUI Legacy
 ### Which GPU should I buy for this?
 
 [See this page for some recommendations](https://github.com/comfyanonymous/ComfyUI/wiki/Which-GPU-should-I-buy-for-ComfyUI)
-
